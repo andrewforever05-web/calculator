@@ -1,0 +1,12 @@
+calculator-react-ts/
+├── src/
+│   ├── components/
+│   │   ├── Calculator.tsx
+│   │   └── CalculatorButton.tsx
+│   ├── reducers/
+│   │   └── calculatorReducer.ts
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── package.json
+└── tsconfig.json
